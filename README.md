@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Nitin Bisht 👋
+
+## I'm a Developer, and Web Technology Enthusiastic!
 
 <!--
 **Nitin96Bisht/Nitin96Bisht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
