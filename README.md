@@ -16,6 +16,7 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+<br />
 
 ![Nitin Bisht github stats](https://github-readme-stats.vercel.app/api?username=Nitin96Bisht&hide=["issues"]&show_icons=true)
 
