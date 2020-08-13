@@ -37,7 +37,7 @@
 <br />
 <br />
 
-![Nitin Bisht github stats](https://github-readme-stats.vercel.app/api?username=Nitin96Bisht&hide=["issues"]&show_icons=true)
+<img align="left" alt="Nitin-Bisht Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Nitin96Bisht&show_icons=true&hide_border=true" />
 
 [website]: https://nitinbisht.herokuapp.com/
 [instagram]: https://www.instagram.com/nitin.bisht.1/
