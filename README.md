@@ -12,8 +12,9 @@
 ### Connect with me:
 
 [<img align="left" alt="https://nitinbisht.herokuapp.com/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Nitin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Nitin | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Nitin | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 <br />
 
@@ -42,3 +43,4 @@
 [website]: https://nitinbisht.herokuapp.com/
 [instagram]: https://www.instagram.com/nitin.bisht.1/
 [linkedin]: https://www.linkedin.com/in/nitin-bisht-3a8a1313b/
+[facebook]: https://www.facebook.com/nitin.bisht.77715
