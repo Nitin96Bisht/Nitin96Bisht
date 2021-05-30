@@ -40,7 +40,6 @@
 <br />
 <br />
 
-<img align="left" alt="Nitin-Bisht Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Nitin96Bisht&show_icons=true&hide_border=true" />
 
 [website]: https://nitinbisht.herokuapp.com/
 [instagram]: https://www.instagram.com/nitin.bisht.1/
