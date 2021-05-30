@@ -1,5 +1,7 @@
 ### Hi there, I'm [Nitin Bisht][website] 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nitin96Bisht&label=Views&color=blue&style=plastic" alt="Nitin96Bisht" /> </p>
+
 [![Linkedin Badge](https://img.shields.io/badge/-NitinBisht-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nitin-bisht-3a8a1313b/)](https://www.linkedin.com/in/nitin-bisht-3a8a1313b/)
 [![Stackoverflow Badge](https://img.shields.io/badge/-NitinBisht-red?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/8258942/nitin-bisht?tab=profile/)](https://stackoverflow.com/users/8258942/nitin-bisht?tab=profile)
 
@@ -39,7 +41,6 @@
 
 <br />
 <br />
-
 
 [website]: https://nitinbisht.herokuapp.com/
 [instagram]: https://www.instagram.com/nitin.bisht.1/
