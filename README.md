@@ -8,7 +8,6 @@
 ## I'm a Developer, and Web Technology Enthusiastic!
 
 - 🔭 I’m currently working on Java and ReactJS
-- 🌱 I’m currently learning Data Science
 - ⚡ Fun fact: I love to play chess
 
 ### Connect with me:
